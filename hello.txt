@@ -1,4 +1,4 @@
-ggit학습을 시작 
+ggit학습을 시작 !!!!
 
 -. 프로젝트 Local Repository에 올리기
 1. git 설치(git-scm.com)
